@@ -13,6 +13,7 @@ Calculadora simples feita com HTML, CSS e JavaScript.
 Abra o arquivo `index.html` no navegador.
 
 ## 📚 Tecnologias usadas
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
+
